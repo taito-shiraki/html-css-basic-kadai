@@ -17,12 +17,12 @@ a {
     color: rgb(255, 255, 255);
 }
 
-a:hover{
-    color: rgb(245, 178, 168);
-}
-
 a:visited {
     color: rgb(193, 234, 251);
+}
+
+a:hover{
+    color: rgb(245, 178, 168);
 }
 
 header {
